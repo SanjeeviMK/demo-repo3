@@ -13,3 +13,4 @@
 - [x] git clone
 - [x] git push
 - [ ] git pull
+- [x] git branch
