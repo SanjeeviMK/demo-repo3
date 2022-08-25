@@ -14,3 +14,4 @@
 - [x] git push
 - [ ] git pull
 - [x] git branch
+- [x] git diff
